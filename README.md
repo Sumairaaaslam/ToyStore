@@ -1,5 +1,5 @@
 # ToyStore
-This is a ToyStore shopping cart application built using Python and Tkinter.
+This is a ToyStore shopping cart application built using Python OOP and Tkinter.
 
 To run this application, you need to have the following packages installed:
 
